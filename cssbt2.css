@@ -1,5 +1,5 @@
 .header{
-    background: rgba(0,0,0,0.1);
+    background:rgb(5, 247, 251);
     text-align: left;
     color: rgb(249, 7, 7);
     padding: 5px;
@@ -25,7 +25,8 @@
     padding: 14px 16px;
     text-decoration: none;
     justify-content: center;
-    width: 22% ;margin-top:100 ;
+    width: 22% ;
+    margin-top:100px ;
     
   }
   
@@ -56,7 +57,7 @@
   footer{
     position: relative;
     width: 100%;
-    height: 20px;
+    height: px;
     padding: 50px 100px;
     background: rgb(251, 250, 250);
     display: flex;
