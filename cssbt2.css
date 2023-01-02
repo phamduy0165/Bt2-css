@@ -1,8 +1,15 @@
 .header{
-    background: paleturquoise;
+    background: rgba(0,0,0,0.1);
     text-align: left;
-    color: red;
-    padding: 10px;
+    color: rgb(249, 7, 7);
+    padding: 5px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    border-bottom:1px solid ;
+    padding: 10px; 0px;
+    
 }
 
 .topnav{
@@ -18,7 +25,8 @@
     padding: 14px 16px;
     text-decoration: none;
     justify-content: center;
-    width: 22% ;
+    width: 22% ;margin-top:100 ;
+    
   }
   
 
@@ -45,3 +53,15 @@
       width: 100%;
     }
   }
+  footer{
+    position: relative;
+    width: 100%;
+    height: px;
+    padding: 50px 100px;
+    background: rgb(251, 250, 250);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+  
